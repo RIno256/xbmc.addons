@@ -53,6 +53,8 @@ def index():
             plugin.url_for('show_serial', category='russerials')},
         {'label': 'Аниме на русском', 'path':
             plugin.url_for('show_serial', category='anime')},
+        {'label': 'Аниме на японском', 'path':
+            plugin.url_for('show_serial', category='animej')},
         {'label': 'Мультсериалы', 'path':
             plugin.url_for('show_serial', category='mults')},
         {'label': 'Для детей', 'path':
@@ -60,6 +62,10 @@ def index():
         {'label': 'Зарубежные ТВ-шоу', 'path':
             plugin.url_for('show_serial', category='tvshows')},
         {'label': 'Российские ТВ-шоу', 'path':
+            plugin.url_for('show_serial', category='rushows')},
+        {'label': '5 канал - Документальные', 'path':
+            plugin.url_for('show_serial', category='5doc')},
+        {'label': '5 канал - Развлекательные', 'path':
             plugin.url_for('show_serial', category='rushows')},
     ]
     return serials_category
