@@ -15,9 +15,3 @@ Linux | ~/.xbmc/addons/
 Mac OS X | /Users/<your_user_name>/Library/Application Support/XBMC/addons/  
 OpenELEC | /storage/.xbmc/addons/  
 Windows XP, 7, 8 | %appdata%\XBMC\addons\  
-
-
-Markdown | Less | Pretty  
---- | --- | ---  
-*Still* | `renders` | **nicely**  
-1 | 2 | 3  
