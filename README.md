@@ -7,7 +7,7 @@ TS.kg - данное дополнение позволяет просматри�
 Установка:  
 Скопировать содержимое в директорию дополнений XBMC:  
 Operative system | File paths  
-:--- | :---  
+--- | ---  
 Android | Android/data/org.xbmc.xbmc/files/.xbmc/addons/  
 iOS | /private/var/mobile/Library/Preferences/XBMC/addons/  
 Linux | ~/.xbmc/addons/  
